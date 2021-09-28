@@ -2,7 +2,7 @@
 
 ## Sprint 1: (16 Septiembre / 20 de octubre)
 
-- Crear archivo JSON (Se decidió darle uso de forma local)
+- [x] Crear archivo JSON (Se decidió darle uso de forma local)
 
 - [ ] Implementar componente para la visualización de diagramas. `Branch: 'diagrama'`
 
