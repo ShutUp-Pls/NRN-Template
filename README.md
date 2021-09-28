@@ -4,13 +4,16 @@
 
 - Crear archivo JSON (Se decidió darle uso de forma local)
 
-- Implementar componente para la visualización de diagramas
+- Implementar componente para la visualización de diagramas.
 `Branch: 'diagrama'`
 
-- Implementar función que lea y busque en un archivo JSON
+
+- Implementar función que lea y busque en un archivo JSON.
 `Branch: 'leerbuscar'`
 
-- Implementar componente que sirva de buscador
+
+- Implementar componente que sirva de buscador.
 `Branch: 'buscador'`
+
 
 ## Sprint 2: (?)
